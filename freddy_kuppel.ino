@@ -1,6 +1,6 @@
 // HOLENTEK MADS HOLEN
-// Nordre Vei 342
-// +47 986 41 537
+// 
+// 
 // www.holentek.no
 #include <FastLED.h>
 #define LED_PIN     8
