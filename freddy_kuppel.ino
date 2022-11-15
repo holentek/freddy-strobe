@@ -1,6 +1,4 @@
-// HOLENTEK MADS HOLEN
-// 
-// 
+// HOLENTEK M. Holen
 // www.holentek.no
 #include <FastLED.h>
 #define LED_PIN     8
